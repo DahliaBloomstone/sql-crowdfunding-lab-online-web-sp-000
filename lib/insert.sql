@@ -1,13 +1,13 @@
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 1", "Environment", 400, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 2", "Animals", 500, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 3", "Children", 125, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 4", "Homeless", 75, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 5", "Seniors", 100, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 6", "Domestic Violence", 65, "7/1/17", "7/31/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 7", "Cancer Survivors", 1000, "7/1/17", "7/31/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 8", "Blind & Deaf", 500, "7/1/17", "7/31/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 9", "Developmental Disabilities", 315, "7/1/17", "7/31/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 10", "Military", 80, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 1", "BLM", 400, "6/1/17", "6/30/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 2", "Coronavirus", 500, "6/1/17", "6/30/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 3", "Cancer", 125, "6/1/17", "6/30/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 4", "Diabetes", 75, "6/1/17", "6/30/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 5", "LGBTQ", 100, "6/1/17", "6/30/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 6", "Women's Shelter", 65, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 7", "Docs without borders", 1000, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 8", "Black Lives Matter", 500, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 9", "Leukemia", 315, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 10", "Education", 80, "7/1/17", "7/31/17");
 
 INSERT INTO users (name, age) VALUES ("Alexis Dorn", 26);
 INSERT INTO users (name, age) VALUES ("Jacob Dorn", 27);
