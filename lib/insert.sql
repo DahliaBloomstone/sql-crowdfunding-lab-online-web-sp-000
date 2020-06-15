@@ -1,9 +1,9 @@
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 1", "BLM", 100, "1/1/20", "1/2/20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 2", "Coronavirus", 200, "2/2/20", "2/3/20");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 3", "Cancer", 300, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 4", "Diabetes", 400, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 5", "LGBTQ", 500, "6/1/17", "6/30/17");
-INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 6", "Women's Shelter", 600, "7/1/17", "7/31/17");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 3", "Cancer", 300, "3/3/20", "3/4/20");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 4", "Diabetes", 400, "4/4/20", "4/5/20");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 5", "LGBTQ", 500, "5/5/20", "5/6/20");
+INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 6", "Women's Shelter", 600, "6/6/20", "6/7/20");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 7", "Docs without borders", 700, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 8", "Black Lives Matter", 800, "7/1/17", "7/31/17");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Philanthropy 9", "Leukemia", 900, "7/1/17", "7/31/17");
